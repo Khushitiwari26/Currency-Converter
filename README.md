@@ -2,16 +2,20 @@
 
 This is a simple and clean Currency Converter web application built using HTML, CSS, and JavaScript. It allows users to convert between different world currencies using real-time exchange rates from an external API.
 
-🌐 Live Demo
-(Optional: Add link here if deployed, e.g., on GitHub Pages or Netlify)
+🌐 Live Demo: https://khushitiwari26.github.io/Currency-Converter/
 
 📁 Project Structure
 currency-converter/
 │
+
 ├── index.html      # Main HTML structure
+
 ├── style.css       # Styling file
+
 ├── script.js       # Functionality and exchange logic
+
 ├── codes.js        # Currency code to country mapping
+
 └── README.md       # You're here!
 
 ⚙️ Features
